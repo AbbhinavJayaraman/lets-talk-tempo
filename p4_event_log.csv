@@ -1,0 +1,42 @@
+Timestamp,Message,Speedup
+2025-04-22T19:26:10.148652,User:  Can you compare the bands of SmashMouth and radiohead?,1.0
+2025-04-22T19:26:10.227712,User Speech Rate: 4 (syllables per second),1.0
+2025-04-22T19:26:20.029815,"Assistant: I'd be happy to help with that comparison.
+
+Here are some key differences between Smash Mouth and Radiohead:
+
+1. Sound style: Smash Mouth is known for their upbeat, pop-infused rock sound, while Radiohead is a more experimental electronic-indie band.
+2. Origins: Smash Mouth formed in California in the 1990s, while Radiohead originated in the UK in the late 1980s.
+3. Style of lyrics: Smash Mouth's songs often focus on catchy melodies and relatable storytelling, whereas Radiohead's lyrics can be more abstract and introspective.
+4. Cultural impact: Smash Mouth has had a successful run as an alt-rock band with hits like ""All Star"" and ""Then the Morning Comes"", while Radiohead has been critically acclaimed for their innovative and influential music.
+
+I hope this helps! Let me know if you have any other questions.",1.0
+2025-04-22T19:27:02.952766,Computed new speedup: 1.0 -> 1.1666666666666665,1.0
+2025-04-22T19:27:11.018260,"User:  I get that, but like is it fair to say they're both reflective of their times?",1.1666666666666665
+2025-04-22T19:27:11.092253,User Speech Rate: 4 (syllables per second),1.1666666666666665
+2025-04-22T19:27:25.108116,"Assistant: Yes, it can be argued that both Smash Mouth and Radiohead are reflecting their respective eras. Smash Mouth's upbeat sound and catchy melodies were a product of the late 1990s alt-rock scene in California, while Radiohead emerged in the UK during the same time period. Both bands were also influenced by British music and culture.
+
+Their reflective nature can be seen as a way to comment on contemporary issues, such as youth culture, technology, and societal change. However, it's worth noting that both bands have evolved significantly over the years, exploring new sounds and themes in their music.
+
+It's also possible to see Radiohead as an example of how alternative and underground artists can challenge mainstream expectations and create innovative, boundary-pushing music.",1.1666666666666665
+2025-04-22T19:28:02.403499,Computed new speedup: 1.1666666666666665 -> 1.25,1.1666666666666665
+2025-04-22T19:28:12.043372,User:  That's actually very deep. How have these bands been meme-done or otherwise made fun of throughout their careers?,1.25
+2025-04-22T19:28:12.160455,User Speech Rate: 4 (syllables per second),1.25
+2025-04-22T19:28:29.239160,"Assistant: I can provide some insight on this topic.
+
+Smash Mouth has indeed been subject to memes and jokes over the years, particularly due to their iconic song ""All Star"" which became a staple at middle school proms. The band's catchy and upbeat sound made them a popular choice for these events, leading to the meme ""all star"". They've also been poked fun at in various forms of media, such as TV shows and films.
+
+Radiohead has also had its share of memes and jokes over the years, particularly due to their experimental and avant-garde style. Their album ""OK Computer"" was often mocked for being too dark and depressing, leading to internet memes that played up these themes. They've also been referenced in various forms of media, such as TV shows and films.
+
+It's worth noting that both bands have managed to maintain a sense of humor about their own notoriety over the years, often incorporating self-deprecation into their music and public personas.",1.25
+2025-04-22T19:29:13.426797,Computed new speedup: 1.25 -> 1.2916666666666665,1.25
+2025-04-22T19:29:20.720572,"User:  But like when it comes to specifically smash mouth, do you think that's why they're underrated?",1.2916666666666665
+2025-04-22T19:29:20.799046,User Speech Rate: 4 (syllables per second),1.2916666666666665
+2025-04-22T19:29:40.878648,"Assistant: I can provide some insight on this topic.
+
+Smash Mouth has actually had a significant following among fans of alternative rock and pop music. Their catchy melodies and relatable lyrics have resonated with listeners across different generations. While they may not be as widely recognized or celebrated as Radiohead, Smash Mouth has maintained a loyal fan base throughout their career.
+
+Additionally, many fans appreciate the more upbeat and energetic vibe that Smash Mouth brings to the table, which can be seen as a refreshing change from some of the heavier and more experimental music in other genres. Their ability to craft infectious, sing-along choruses has helped them build a dedicated following, despite not being one of the most critically acclaimed or influential bands of their era.
+
+It's worth noting that Smash Mouth's underrated status can be attributed more to a combination of factors, including limited mainstream success and a lack of widespread recognition during their peak in the late 1990s. However, they continue to enjoy a loyal fan base and have maintained a consistent presence on music festivals and radio airwaves over the years.",1.2916666666666665
+2025-04-22T19:30:32.907344,Computed new speedup: 1.2916666666666665 -> 1.3125,1.2916666666666665
