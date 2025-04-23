@@ -1,0 +1,5 @@
+Log File,Agent Duration Min (s),Agent Duration Max (s),Agent Duration Avg (s),Adjusted Duration Min (s),Adjusted Duration Max (s),Adjusted Duration Avg (s),Percentage Speed Min (%),Percentage Speed Max (%),Percentage Speed Avg (%)
+p1_event_log.csv,24.974562,41.569436,34.38543925,24.974562,41.569436,34.38543925,0.0,0.0,0.0
+p2_event_log.csv,0.56929,34.914633,15.230734250000001,0.7353329166666666,34.914633,16.213066713541878,29.17,0.0,6.45
+p3_event_log.csv,28.475492,41.366927,37.518256,28.475492,36.196061125,32.045231468749996,0.0,-12.5,-14.59
+p4_event_log.csv,37.295383,52.028696,44.10866675,42.922951,67.20373233333332,52.2181274375,15.09,29.17,18.39

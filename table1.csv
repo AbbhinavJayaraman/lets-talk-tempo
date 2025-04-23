@@ -1,0 +1,5 @@
+Log File,User Min Speech Rate,User Max Speech Rate,User Avg Speech Rate,Agent Min Speech Rate,Agent Max Speech Rate,Agent Avg Speech Rate,Total Time
+p1_event_log.csv,3.0,3.0,3.0,4.0,4.0,4.0,0 days 00:04:05.688175
+p2_event_log.csv,3.0,4.0,3.25,4.0,5.1667,4.6285,0 days 00:03:10.024210
+p3_event_log.csv,2.0,3.0,2.25,3.0,4.0,3.4583,0 days 00:04:43.065976
+p4_event_log.csv,4.0,4.0,4.0,4.0,5.1667,4.7083,0 days 00:04:22.758692
