@@ -1,7 +1,7 @@
 Timestamp,Message,Speedup
 2025-04-22T18:03:03.972031,User:  Hey, I'm trying to get macOS to feel more like a Linux setup. Can I get dynamic tiling working somehow?,1.0
 2025-04-22T18:03:04.005498,User Speech Rate: 3.0 (syllables per second),1.0
-2025-04-22T18:03:31.544280,Assistant: Dynamic tiling on macOS can be a bit tricky, but it's achievable with some tweaks and third-party software. You can try 
+2025-04-22T18:03:31.544280,Agent: Dynamic tiling on macOS can be a bit tricky, but it's achievable with some tweaks and third-party software. You can try 
 the following:
 
 1. Install Xfce or Gnome Tiler as an alternative to native macOS tiling.
@@ -14,7 +14,7 @@ These methods should z you get started with a Linux-like experience on your macO
 2025-04-22T18:03:33.458913,Computed new speedup: 1.0 -> 1.25,1.0
 2025-04-22T18:03:34.133626,User Nice. Does it work with the latest macOS versions? I don't know if there are issues or not with the suggestions you made.,1.25
 2025-04-22T18:03:34.784312,User Speech Rate: 4 (syllables per second),1.25
-2025-04-22T18:03:59.160790,Assistant:  The suggestions I provided are generally compatible with recent macOS versions, but there might be some minor issues or 
+2025-04-22T18:03:59.160790,Agent:  The suggestions I provided are generally compatible with recent macOS versions, but there might be some minor issues or 
 compatibility concerns.
 
 For Xfce and Gnome Tiler:
@@ -38,7 +38,7 @@ for more guidance.,1.15
 2025-04-22T18:03:59.984165,Computed new speedup: 1.25 -> 1.2916666666666665,1.15
 2025-04-22T18:04:01.990733,I have interacted with the Linux community before. I used to use Arch, by the way.,1.2916666666666665
 2025-04-22T18:04:03.115642,User Speech Rate: 3 (syllables per second),1.2916666666666665
-2025-04-22T18:04:25.985644,Assistant:  Arch Linux is a great choice! It's known for its flexibility and customizability. You must have enjoyed the sense of 
+2025-04-22T18:04:25.985644,Agent:  Arch Linux is a great choice! It's known for its flexibility and customizability. You must have enjoyed the sense of 
 ownership and control that comes with building your own system from scratch.
 
 What did you like most about Arch Linux? Was there a particular aspect or feature that stood out to you?
@@ -48,7 +48,7 @@ insights on how to make the transition more comfortable.),1.2916666666666665
 2025-04-22T18:04:26.554934,Computed new speedup: 1.2916666666666665 -> 1.1458333333334,1.2916666666666665
 2025-04-22T18:04:29.501999,User  I liked the challenge of setting it up, how lightweight it could be made, and the bragging rights.,1.1458333333334
 2025-04-22T18:04:29.896654,User Speech Rate: 3 (syllables per second),1.1458333333334
-2025-04-22T18:05:01.380602,Assistant: The sense of accomplishment that comes with building a system from scratch is hard to match. Arch Linux's modular 
+2025-04-22T18:05:01.380602,Agent: The sense of accomplishment that comes with building a system from scratch is hard to match. Arch Linux's modular 
 nature and flexibility allowed you to tailor your experience to your specific needs, making it a great fit for those 
 who enjoy customization.
 
