@@ -12,4 +12,6 @@ HCI (CS 395T) Project, Implementation of an LLM wrapper to make a Conversational
 8. Make sure you have some way to run Jupyter Notebooks. `pip install ipykernel ipywidgets` should do the trick
 9. Run the cells of the notebook. The last cell will prompt you to hit the enter key to start voice dictation, and again to end it. 
 10. Wait for the response. 
-11. When you wish to end the conversation, you will interrupt the last cell while you are being prompted to hit the enter key to start dictation (don't hit the enter key though). Then, you can hit the Escape key exit. 
+11. When you wish to end the conversation, you will interrupt the last cell while you are being prompted to hit the enter key to start dictation (don't hit the enter key though). Then, you can hit the Escape key exit.
+
+If you want to see our Web App implementation, you can do so [here](https://github.com/i-am-ami/hci-rava-project/tree/deployable)
